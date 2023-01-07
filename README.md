@@ -1,1 +1,1 @@
-echo "# namaste-react"
+echo "# namaste-react series"
